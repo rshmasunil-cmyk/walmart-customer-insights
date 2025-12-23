@@ -15,7 +15,7 @@ This project demonstrates skills in data visualization, business analysis, KPI r
 
 <h2>Dashboard Pages & Analysis</h2>
 
-<h3>Sales & Revenue Overview</h3>
+<h3>1. Sales & Revenue Overview</h3>
 <h5>Visuals:</h5>
 
 <ul>
@@ -31,7 +31,7 @@ This project demonstrates skills in data visualization, business analysis, KPI r
   <li>Sharp revenue decline observed in January 2025, indicating seasonality</li>
 </ul>
 
-<h3>Customer Demographics Analysis</h3>
+<h3>2. Customer Demographics Analysis</h3>
 <h5>Visuals:</h5>
 
 <ul>
@@ -47,7 +47,7 @@ This project demonstrates skills in data visualization, business analysis, KPI r
   <i>Certain cities consistently contribute higher customer volume</i>
 </ul>
 
-<h3>Repeat Customer & Discount Analysis</h3>
+<h3>3. Repeat Customer & Discount Analysis</h3>
 <h5>Visuals:</h5>
 
 <ul>
@@ -62,7 +62,7 @@ This project demonstrates skills in data visualization, business analysis, KPI r
   <li>Opportunity to reduce discount dependency and improve profit margins</li>
 </ul>
 
-<h3>Payment Method Analysis</h3>
+<h3>4. Payment Method Analysis</h3>
 <h5>Visuals:</h5>
 
 <ul>
